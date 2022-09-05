@@ -1,0 +1,52 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(2, 45%, 44%);
+}
+
+body {
+  background-color: #f3eae3;
+}
+
+p {
+  font-size: 14px;
+}
+
+h1 {
+  margin: 2rem 0;
+}
+
+.center {
+  max-width: 740px;
+  width: 80%;
+  margin: 10rem auto;
+}
+
+.tipography-fraunces {
+  font-family: "Fraunces", serif;
+}
+
+.tipography-montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.price {
+  font-size: 30px;
+  margin: 2rem 0;
+  color: green;
+}
+
+sup {
+  margin-left: 1rem;
+  font-size: 15px;
+  text-decoration: line-through;
+}
+
+button {
+  width: 100%;
+  font-size: large;
+  font-style: normal;
+  font-weight: bold;
+}
